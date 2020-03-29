@@ -1,0 +1,15 @@
+{
+  "name": "covid-19-webslides",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "Basil",
+  "license": "MIT",
+  "homepage": "https://general260.github.io/covid-19-webslides",
+  "dependencies": {
+    "gh-pages": "^2.2.0"
+  }
+}
